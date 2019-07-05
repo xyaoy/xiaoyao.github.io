@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[细胞培养一：贴壁细胞]]></title>
+    <url>%2F2019%2F07%2F04%2F%E7%BB%86%E8%83%9E%E5%9F%B9%E5%85%BB%E4%B8%80%EF%BC%9A%E8%B4%B4%E5%A3%81%E7%BB%86%E8%83%9E%2F</url>
+    <content type="text"><![CDATA[细胞培养1.从液氮罐中取出冻存管，放入37度水浴锅中融化，800-1000rpm离心3-5min；2.慢慢吸去上清，加入适量完全培养基重悬细胞团，转移至培养皿或细胞瓶；3.补足完全培养基，放37度培养箱中培养]]></content>
+      <categories>
+        <category>生物实验</category>
+      </categories>
+      <tags>
+        <tag>细胞培养</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <url>%2F2019%2F07%2F02%2Fhello-world%2F</url>
+    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+  </entry>
+</search>
